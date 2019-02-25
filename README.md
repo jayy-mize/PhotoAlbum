@@ -9,6 +9,8 @@ Open solution file in Visual Studio and click run.
 You can also navigate to the PhotoAlbum.exe and click 'Run'. 
 File is Located at PhotoAlbum/PhotoAlbum/bin/Debub/PhotoAlbum.exe
 
+You can escape the command line by using Ctrl+C or whatever you have configured as your exit console command.
+
 ## Tests
 
 There are unit tests that live in the PhotoAlbum.UnitTest solution.
